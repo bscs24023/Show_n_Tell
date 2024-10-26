@@ -2,3 +2,47 @@ Day 1:
 Areej-
 We held a zoom meeting in which we discussed our topic "Sets". We distributed the work amongst the 5 members.
 Everyone has a different role and we'll be working on our parts and also help and edit eachothers work when needed. 
+
+On Friday the whole group came together to construct a draft of our presentation:
+Slide 1
+Overview
+
+Slide 2-3
+Introduction 
+
+Sets definition
+Union
+Intersection
+Difference
+
+Slide 4
+Cartesian Product (1 slide)
+Definition and Visualisation
+
+Slide 5
+Code
+
+Slide 6
+Output
+
+Slide 7
+Live demo of set calculator 
+
+Slide 8-9
+Cartesian Product Theories
+Cartesian product in Set theory and Cartesian product
+Cartesian Product in Logic and Computability.
+
+Slide 10-11
+Applications in real life
+Database
+Machine Learning
+
+Slide 12
+Daily life Applications
+
+Slide 13
+Daily life Application Puzzle (Interactive)
+
+Slide 14
+Conclusion 
