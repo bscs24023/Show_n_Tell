@@ -46,3 +46,4 @@ Daily life Application Puzzle (Interactive)
 
 Slide 14
 Conclusion 
+On Monday Oct 28 We had a small discussion about the algorithm of our code that we will be using in our presentation We wrote our Algorithm and Pseudo Code
