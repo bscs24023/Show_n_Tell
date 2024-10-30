@@ -47,3 +47,9 @@ Daily life Application Puzzle (Interactive)
 Slide 14
 Conclusion 
 On Monday Oct 28 We had a small discussion about the algorithm of our code that we will be using in our presentation We wrote our Algorithm and Pseudo Code
+
+Areej:
+Today I started working on my code for the Set Calculator. I learnt Dynamic arrays as they will be used in my code and we have not covered it in our course yet. Thus, I have started self learning.
+I also started finding information on Cartesian Product Theories, specifically Cartesian Product in Logic and Computability.
+
+
