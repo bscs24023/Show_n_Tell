@@ -52,4 +52,5 @@ Areej:
 Today I started working on my code for the Set Calculator. I learnt Dynamic arrays as they will be used in my code and we have not covered it in our course yet. Thus, I have started self learning.
 I also started finding information on Cartesian Product Theories, specifically Cartesian Product in Logic and Computability.
 
-
+Rabia: 
+Today I worked a bit more on code and learnt how to make a console application I am taking it bit by bit. But I am tryinng to make an application
