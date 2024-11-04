@@ -54,3 +54,6 @@ I also started finding information on Cartesian Product Theories, specifically C
 
 Rabia: 
 Today I worked a bit more on code and learnt how to make a console application I am taking it bit by bit. But I am tryinng to make an application
+
+Maryam:
+I have started working on the introductory slides which will cover the fundamental definition of sets and their classification.
