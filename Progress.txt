@@ -57,3 +57,6 @@ Today I worked a bit more on code and learnt how to make a console application I
 
 Maryam:
 I have started working on the introductory slides which will cover the fundamental definition of sets and their classification.
+
+Hafsa:
+I'm currently gathering data on the daily life applications of Cartesian Product using different resources on the internet as well as textbooks on statistical maths. 
