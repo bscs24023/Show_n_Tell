@@ -66,3 +66,9 @@ My topic of research is Cartesian Product in Logic and Computability. I am curre
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html
 https://www.researchgate.net/publication/344546618_CARTESIAN_PRODUCT_OF_AUTOMATA
 
+Maryam:
+I am currently working on the application of the cartesian product in relational databases,specifically focusing on how different join operations are used to combine data from multiple tables.
+The following are some of the websites that i am using for my research and understanding:
+https://www.geeksforgeeks.org/cartesian-join/
+https://www.w3schools.com/sql/sql_join.asp
+
