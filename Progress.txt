@@ -60,3 +60,9 @@ I have started working on the introductory slides which will cover the fundament
 
 Hafsa:
 I'm currently gathering data on the daily life applications of Cartesian Product using different resources on the internet as well as textbooks on statistical maths. 
+
+Areej:
+My topic of research is Cartesian Product in Logic and Computability. I am currently doing research on automata and the application of Cartesian product in it. Here are some of the papers and websites I have used:
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/basics.html
+https://www.researchgate.net/publication/344546618_CARTESIAN_PRODUCT_OF_AUTOMATA
+
