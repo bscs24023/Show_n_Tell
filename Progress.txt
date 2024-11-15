@@ -76,3 +76,8 @@ Hafsa:
 I've been looking closely at how Cartesian Product is useful in our everyday lives. I've gathered some useful information such as how online shopping websites and travel agencies use Cartesian Product. I took help from:
 https://www.softpost.org/iit-jee/real-world-applications-of-cartesian-products-concept
 
+
+Rameen: I am currently researching on applications of cartesian product in set theory along with the codes for set calculator.
+https://math.stackexchange.com/questions/878748/the-use-of-cartesian-product
+using this site along with some Youtube videos for research
+
