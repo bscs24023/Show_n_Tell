@@ -81,3 +81,6 @@ Rameen: I am currently researching on applications of cartesian product in set t
 https://math.stackexchange.com/questions/878748/the-use-of-cartesian-product
 using this site along with some Youtube videos for research
 
+Rameen: I am currently researching on ZF set theory which consists of a collection of axioms that describe how sets behave and make cartesian product mathematically rigorous.
+
+
