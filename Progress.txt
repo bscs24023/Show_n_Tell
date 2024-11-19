@@ -29,9 +29,8 @@ Slide 7
 Live demo of set calculator 
 
 Slide 8-9
-Cartesian Product Theories
-Cartesian product in Set theory and Cartesian product
 Cartesian Product in Logic and Computability.
+Cartesian product in geographical mapping
 
 Slide 10-11
 Applications in real life
@@ -77,10 +76,11 @@ I've been looking closely at how Cartesian Product is useful in our everyday liv
 https://www.softpost.org/iit-jee/real-world-applications-of-cartesian-products-concept
 
 
-Rameen: I am currently researching on applications of cartesian product in set theory along with the codes for set calculator.
-https://math.stackexchange.com/questions/878748/the-use-of-cartesian-product
-using this site along with some Youtube videos for research
+Rameen: I am currently researching on applications of cartesian product in geaographical mapping along with the code making for set calculator.
 
-Rameen: I am currently researching on ZF set theory which consists of a collection of axioms that describe how sets behave and make cartesian product mathematically rigorous.
+Rameen: I am currently researching on how cartesian product helps us in finding exact locations which is helpful in navigation and mapping.
+
+Rameen: Today, I searched for world map and google maps with longitude and latitudes and their importance in finding
+exact locations of anyplace on Earth.
 
 
