@@ -84,3 +84,8 @@ Rameen: Today, I searched for world map and google maps with longitude and latit
 exact locations of anyplace on Earth.
 
 
+Rabia:
+Today I worked on sets used in machine learning I used following sites for this purpose,
+https://medium.com/@jainvidip/understanding-train-test-and-validation-data-in-machine-learning-f8276165619c
+https://scikit-learn.org/stable/
+
