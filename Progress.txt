@@ -89,3 +89,4 @@ Today I worked on sets used in machine learning I used following sites for this 
 https://medium.com/@jainvidip/understanding-train-test-and-validation-data-in-machine-learning-f8276165619c
 https://scikit-learn.org/stable/
 
+Rameen:  Researching on how sets of latitude and longitudes with the help of cartesian product helps us to find location of anywhere on Earth.
