@@ -93,3 +93,6 @@ Rameen:  Researching on how sets of latitude and longitudes with the help of car
 
 Rabia: 
 I spent a good amount of time on building set calculator in python I studied python from W3 School and studied the documentation of tkinter library by python docs as we are using this in our code. We have switched our code from c++ to python.
+
+Rabia:
+Yesterday and today i reserched on how sets are used in machine learning and i came across various interesting facts about sets.
