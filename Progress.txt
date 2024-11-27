@@ -99,3 +99,6 @@ Yesterday and today i reserched on how sets are used in machine learning and i c
 
 Rabia:
 Today I again researched on Machine learning and sets I am currently trying to relate Machine learning to sets.
+
+Rabia:
+I worked on building set calculator and I also discussed it with some of our group members in class It is almost complete now.
