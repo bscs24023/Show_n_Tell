@@ -96,3 +96,6 @@ I spent a good amount of time on building set calculator in python I studied pyt
 
 Rabia:
 Yesterday and today i reserched on how sets are used in machine learning and i came across various interesting facts about sets.
+
+Rabia:
+Today I again researched on Machine learning and sets I am currently trying to relate Machine learning to sets.
