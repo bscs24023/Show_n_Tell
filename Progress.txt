@@ -104,3 +104,5 @@ Rabia:
 I worked on building set calculator and I also discussed it with some of our group members in class It is almost complete now.
 
 Rameen: Did more research on geographical mapping using cartesian product.
+
+Hafsa: Over the last few days, I've been working on my part of the slides for the presentation. We're almost done with the coding as well.
