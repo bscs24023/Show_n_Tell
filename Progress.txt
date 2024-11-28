@@ -118,3 +118,6 @@ I've finalised my part of the slides and am now researching on other daily appli
 
 Rabia: 
 I am done with my slides today I finalised it The code is just at the end.
+
+Rabia:
+I researched a bit more on machine learning and how it is connected to sets i tried to relate them and now i am searching for its visual representation.
