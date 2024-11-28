@@ -102,3 +102,5 @@ Today I again researched on Machine learning and sets I am currently trying to r
 
 Rabia:
 I worked on building set calculator and I also discussed it with some of our group members in class It is almost complete now.
+
+Rameen: Did more research on geographical mapping using cartesian product.
