@@ -109,3 +109,5 @@ Hafsa: Over the last few days, I've been working on my part of the slides for th
 
 Areej: Ive defined automata on my slides to ensure a basic understanding of what it is. This will help picture how Cartesian Product is applied 
 on it.
+
+Areej: We are almost done with our code and we will be making a short video as a demonstration of our output. 
