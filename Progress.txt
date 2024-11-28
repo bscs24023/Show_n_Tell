@@ -105,9 +105,13 @@ I worked on building set calculator and I also discussed it with some of our gro
 
 Rameen: Did more research on geographical mapping using cartesian product.
 
-Hafsa: Over the last few days, I've been working on my part of the slides for the presentation. We're almost done with the coding as well.
+Hafsa: 
+Over the last few days, I've been working on my part of the slides for the presentation. We're almost done with the coding as well.
 
 Areej: Ive defined automata on my slides to ensure a basic understanding of what it is. This will help picture how Cartesian Product is applied 
 on it.
 
 Areej: We are almost done with our code and we will be making a short video as a demonstration of our output. 
+
+Hafsa:
+I've finalised my part of the slides and am now researching on other daily applications of the Cartesian Product to gain a clear understanding of how it really works.
