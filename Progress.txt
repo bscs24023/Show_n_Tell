@@ -143,3 +143,5 @@ Maryam:
 Today i have started finalising my slides and making changes to improve it. Also, i am using different resources to help me prepare for my presentation.
 
 Rameen: we had a discussion on how to present slides and everyone explained their topics to eachother.
+
+Rameen: Done with my slides which includes the application of cartesian product in geographical mapping
