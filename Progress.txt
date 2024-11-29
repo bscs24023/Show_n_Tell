@@ -121,3 +121,20 @@ I am done with my slides today I finalised it The code is just at the end.
 
 Rabia:
 I researched a bit more on machine learning and how it is connected to sets i tried to relate them and now i am searching for its visual representation.
+
+Maryam:
+After doing my research on what relational databases are, i started working on cross joins and its different examples.
+
+Maryam:
+Continuing my research about cartesian product and its application in relational databases, i have started to explore how it forms the basis for more complex joins which include inner join, left join and right join etc. 
+
+Maryam:
+I have been using different youtube videos and websites for my understanding. Following are some of the links to the videos:
+https://youtu.be/F6MBz_h3Uj8?si=T-5jrptMN259MZaI
+https://youtu.be/qvioqCvvMek?si=y1u6iZhomBNVEzQa
+
+Maryam:
+I explored different examples which have helped me to better understand the application of each join and how we can use them depending on the requirement.
+
+Maryam:
+Yesterday, i started working on my slides and found different images and examples that can help me comprehend the topic in a better way.
