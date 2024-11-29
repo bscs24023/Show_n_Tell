@@ -40,8 +40,8 @@ Machine Learning
 Slide 12
 Daily life Applications
 
-Slide 13
-Daily life Application Puzzle (Interactive)
+(Slide 13
+Daily life Application Puzzle (Interactive)) -Areej : No longer doing this as we dont have enough time to present.
 
 Slide 14
 Conclusion 
@@ -148,4 +148,4 @@ Rameen: Done with my slides which includes the application of cartesian product 
 
 
 Areej:
-Ive completed my sildes and i have put all the information on the sildes itself. 
+Ive completed my sildes and i have put all the information on the sildes itself.
